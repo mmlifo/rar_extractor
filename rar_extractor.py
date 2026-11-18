@@ -39,4 +39,4 @@ def extract_rar_file():
         print(f"An unexpected error occurred: {e}")
 
 if __name__ == "__main__":
-    extract_rar_file()Ex
+    extract_rar_file()
